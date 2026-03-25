@@ -1,0 +1,7 @@
+# IntelliJ project files (root level)
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
